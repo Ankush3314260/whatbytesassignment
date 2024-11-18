@@ -32,7 +32,7 @@ const Page = () => {
           setScore={setScore}
         />
       </div>
-      <div className="mx-[2%] my-[3%] ">
+      <div className="mx-[2%] mt-[3%] ">
         <p className="text-[0.3em] max-md:text-[0.5em]">Skill Test</p>
         <div className="flex flex-wrap gap-[1%]">
           {/* html text container and related info */}

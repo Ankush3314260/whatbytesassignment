@@ -5,7 +5,7 @@ const Sidebar = () => {
   const router= usePathname()
   
   return (
-    <div className="min-h-screen border-r-[1px]  ">
+    <div className="h-full border-r-[1px]  ">
       <section>
         <ul className="  text-[#292929] font-medium relative top-[50px]   text-[0.8em] h-full ">
           <li className="  ">

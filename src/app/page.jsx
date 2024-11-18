@@ -8,7 +8,7 @@ export default function Home() {
  
    },[])
   return (
-    <div className="flex items-center ">
+    <div className="flex  min-h-svh ">
       <div className="mx-[10%] relative ">
         <p className="text-[6vw]   transition-all duration-100">Welcome , </p>
         <h1 className="text-center text-[8vw] transition-all duration-100">DASHBOARD</h1>
